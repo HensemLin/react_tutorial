@@ -35,12 +35,12 @@ This project is designed to be accompanied by a step-by-step tutorial. Follow th
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/react-blog-crud-tutorial.git
+   git clone https://github.com/HensemLin/react_tutorial.git
     ```
 2. **Navigate to the Project Directory:**
    
    ```bash
-   cd react-blog-crud-tutorial
+   cd react_tutorial
 
     ```
 
